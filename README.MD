@@ -24,6 +24,7 @@ Le but est de permettre une réinstallation facile du projet et de documenter le
 L’architecture du thème se compose des fichiers et dossiers suivants :
 
 theme/
+
 ├── img/ # Images utilisées dans le thème
 
 ├── js/ # Scripts JavaScript spécifiques
