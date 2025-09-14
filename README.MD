@@ -25,16 +25,26 @@ L’architecture du thème se compose des fichiers et dossiers suivants :
 
 theme/
 ├── img/ # Images utilisées dans le thème
+
 ├── js/ # Scripts JavaScript spécifiques
+
 ├── templates/ # Templates personnalisés
+
 ├── footer.php # Pied de page du thème
 ├── functions.php # Fichier principal des fonctions du thème
+
 ├── header.php # En-tête du thème
+
 ├── index.php # Point d’entrée principal du thème
+
 ├── page.php # Template des pages
+
 ├── screenshot.png # Capture d’écran du thème (pour l’aperçu WP)
+
 ├── single.php # Template des articles (posts)
+
 └── style.css # Feuille de style principale
+
 └── README.MD # READ ME
 
 
